@@ -33,7 +33,7 @@ export default function App() {
       },
       {
         name: "Maxstream Apps",
-        description: "TV streaming service application exclusively for Telkomsel card users",
+        description: "TV streaming service application exclusively for Telkomsel SIM card users",
         img: portoApp2
       },
     ],
