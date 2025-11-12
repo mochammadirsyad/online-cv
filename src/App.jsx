@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "./assets/profile.png";
+import profilePic from "./assets/fotonk.jpg";
 import portoApp1 from "./assets/IndihomeTV.PNG";
 import portoApp2 from "./assets/Maxstream.PNG";
 import portoApp3 from "./assets/Mangoesky.PNG";
